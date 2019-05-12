@@ -87,3 +87,5 @@ fi
 if [ -f ~/.bash_exports ]; then
     . ~/.bash_exports
 fi
+
+export EDITOR=vim
