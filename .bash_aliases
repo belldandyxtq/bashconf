@@ -21,6 +21,7 @@ alias rm='rm -i'
 alias cp='cp -i'
 alias v='vim'
 alias df='df -h'
+alias f='fzf'
 
 # Add an "alert" alias for long running commands.  Use like so:
 #   sleep 10; alert
